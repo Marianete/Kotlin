@@ -1,5 +1,5 @@
 # Kotlin
-21/07
+## Actividades
 
 ![](https://github.com/Marianete/Kotlin/blob/main/Captura.PNG)
 ![](https://github.com/Marianete/Kotlin/blob/main/Captura1.PNG)
